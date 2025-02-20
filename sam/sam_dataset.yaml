@@ -1,0 +1,10 @@
+
+path: /content/drive/MyDrive/car dataset  # root path to dataset
+train: images/train
+val: images/test
+
+# Number of classes
+nc: 3
+
+# Class names
+names: ['building', 'car', 'tree']
